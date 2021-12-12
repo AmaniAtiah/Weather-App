@@ -10,10 +10,10 @@ import UIKit
 class ChangeCityVC: UIViewController  {
 
     var citiesArray = [
-        City(name: "الرياض"),
-        City(name: "الدمام"),
-        City(name: "جدة"),
-        City(name: "مكة"),
+        City(name: "الرياض", id: "108410"),
+        City(name: "الدمام", id: "110336"),
+        City(name: "جدة", id: "105343"),
+        City(name: "ابها", id: "110690")
 
     ]
     
